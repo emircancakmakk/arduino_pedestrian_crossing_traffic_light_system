@@ -9,10 +9,6 @@ This project implements a pedestrian crossing traffic light system using Arduino
 - LEDs (for traffic lights)
 - Buzzer (for pedestrian signal)
 
-## Circuit Diagram
-
-Insert your circuit diagram here. You can use software like Fritzing to create one.
-
 ## Installation
 
 1. Connect the components according to the provided circuit diagram.
@@ -26,6 +22,12 @@ Insert your circuit diagram here. You can use software like Fritzing to create o
 3. Meanwhile, the vehicle lights will switch to red, signaling vehicles to stop.
 4. After a designated time, the pedestrian light will switch back to red, indicating it's no longer safe to cross.
 5. The vehicle lights will then switch back to green, and the cycle repeats.
+
+## Circuit Diagram
+
+![Circuit Diagram](images/circuit_diagram.png)
+
+Insert your circuit diagram here. You can use software like Fritzing to create one.
 
 ## Contributing
 
