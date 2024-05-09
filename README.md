@@ -27,8 +27,6 @@ This project implements a pedestrian crossing traffic light system using Arduino
 
 ![Circuit Diagram](images/circuit_diagram.png)
 
-Insert your circuit diagram here. You can use software like Fritzing to create one.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or suggestions.
