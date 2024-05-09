@@ -18,7 +18,7 @@ This project implements a pedestrian crossing traffic light system using Arduino
 ## Usage
 
 1. When the system is idle, the vehicle lights (typically red and green) will be on, and the pedestrian light will be off.
-2. When a pedestrian presses the push button, the pedestrian light will turn on (typically green) after a delay, indicating it's safe to cross.
+2. When a pedestrian presses the push button, the pedestrian light will turn on (typically green) after a delay, indicating it's safe to cross. Simultaneously, a buzzer signal will sound to alert pedestrians.
 3. Meanwhile, the vehicle lights will switch to red, signaling vehicles to stop.
 4. After a designated time, the pedestrian light will switch back to red, indicating it's no longer safe to cross.
 5. The vehicle lights will then switch back to green, and the cycle repeats.
